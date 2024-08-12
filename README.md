@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Urgent Live News (Prank)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de roteiro fictício com avatar em forma de um jornal de tv  chamado "Urgent Live News". Neste jornal o âncora vai noticiar sobre crianças que não arrumam o quarto e não obedecem os seus pais. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT - roteiro
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+* Chat GPT - crie um roteiro fictício de um jornal de tv  chamado "Urgent Live News" no qual o âncora está noticiando sobre crianças que não arrumam o quarto e não obedecem os pais. Uma das coisas que a notícia precisa informar é que foi criado um placar de pontos para as crianças. Neste placar cada criança começa com 100 pontos e a cada desobediência aos pais ou dia que não arrumar o quarto, a criança perderá uma quantidade de pontos, de acordo com a gravidade da desobediência ou menos 10 pontos por não arrumar o quarto naquele dia. Caso chegue a zero pontos em um mês, a criança será visitada pelas forças especiais do Brasil para um check-up  da vida familiar e verificação de possíveis providências junto a família.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O chat GPT criou o roteiro exibido no arquivo ROTEIRO.MD
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
