@@ -29,10 +29,11 @@ Criação de roteiro fictício com avatar em forma de um jornal de tv  chamado "
 Chat GPT - roteiro
 
 ## 🧐 Processo de Criação
-* Chat GPT - crie um roteiro fictício de um jornal de tv  chamado "Urgent Live News" no qual o âncora está noticiando sobre crianças que não arrumam o quarto e não obedecem os pais. Uma das coisas que a notícia precisa informar é que foi criado um placar de pontos para as crianças. Neste placar cada criança começa com 100 pontos e a cada desobediência aos pais ou dia que não arrumar o quarto, a criança perderá uma quantidade de pontos, de acordo com a gravidade da desobediência ou menos 10 pontos por não arrumar o quarto naquele dia. Caso chegue a zero pontos em um mês, a criança será visitada pelas forças especiais do Brasil para um check-up  da vida familiar e verificação de possíveis providências junto a família.
+* Chat GPT - crie um roteiro fictício de um jornal de tv  chamado "Notícias Urgentes do Dia" no qual o âncora está noticiando sobre crianças que não arrumam o quarto e desobedecem os pais. Uma das coisas que a notícia precisa informar é que foi criado um placar de pontos para as crianças. Neste placar cada criança começa com 100 pontos e a cada desobediência aos pais ou dia que não arrumar o quarto, a criança perderá uma quantidade de pontos, de acordo com a gravidade da desobediência ou menos 10 pontos por não arrumar o quarto naquele dia. Caso chegue a zero pontos em um mês, a criança será visitada pelas forças especiais do Brasil para um check-up  da vida familiar e verificação de possíveis providências junto a família.
+* Colossyan (https://app.colossyan.com/) - utilizndo a IA Colossyan foi criado um video com avatar a partir do roteiro base criado pelo Chat GPT
 
 ## 🚀 Resultados
-O chat GPT criou o roteiro exibido no arquivo ROTEIRO.MD
+O chat GPT criou o roteiro exibido no arquivo ROTEIRO.MD e o Colossyan criou o video no arquivo NOTICIAS.MP4
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
